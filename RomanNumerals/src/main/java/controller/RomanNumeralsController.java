@@ -1,9 +1,10 @@
-package main.java.controller;
+package controller;
+
+import java.util.ArrayList;
 
 import lombok.Getter;
 import model.RomanNumber;
 import model.RomanNumerals;
-import java.util.ArrayList;
 
 @Getter
 

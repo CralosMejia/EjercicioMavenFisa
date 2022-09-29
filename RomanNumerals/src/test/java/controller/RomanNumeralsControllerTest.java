@@ -1,4 +1,4 @@
-package test.java.controller;
+package controller;
 
 import org.junit.BeforeClass;
 import org.junit.Test;
