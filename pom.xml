@@ -9,5 +9,6 @@
   	<module>RomanNumerals</module>
   	<module>Traslator</module>
   	<module>Lector</module>
+  	<module>GalaxyMain</module>
   </modules>
 </project>
