@@ -1,4 +1,4 @@
-package src.main.java.com.fisa.model;
+package com.fisa.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -9,6 +9,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 
 public class Token {
-    String name;
-    String type;
+	String name;
+	String type;
 }

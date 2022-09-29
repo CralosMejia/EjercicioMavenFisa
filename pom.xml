@@ -8,5 +8,6 @@
   <modules>
   	<module>RomanNumerals</module>
   	<module>Traslator</module>
+  	<module>Lector</module>
   </modules>
 </project>

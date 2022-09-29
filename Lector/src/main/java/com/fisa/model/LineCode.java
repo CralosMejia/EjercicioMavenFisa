@@ -5,12 +5,10 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Data
-@NoArgsConstructor
 @AllArgsConstructor
-
-public class Word {
-	private String name;
-	private String traslation;
-
-
+@NoArgsConstructor
+public class LineCode {
+	int number;
+	String code;
+	boolean validate;
 }
